@@ -22,7 +22,7 @@ Procedures have been built by NorthWestTrees Gaming.
 | --- | --- |
 
 ## TUTORIALS
-* [YouTube: Items Tubes](https://youtu.be/jPFuPyh9wZE) - Published on 2021-05-21
+* [YouTube: Quests Tutorial](https://youtu.be/ciTD7CZu96s) - Published on 2021-06-04
 
 ## GALLERY
-![Items Tubes](https://i.imgur.com/7CjBqgl.png)
+![Items Tubes](https://i.imgur.com/cKaVU4W.png)

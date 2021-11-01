@@ -1,3 +1,4 @@
+![Items Tubes](https://i.imgur.com/7CjBqgl.png)
 # ITEM TUBES
 Project files for the [MCreator](https://mcreator.net/) example and tutorial.
 
@@ -23,6 +24,3 @@ Procedures have been built by NorthWestTrees Gaming.
 
 ## TUTORIALS
 * [YouTube: Quests Tutorial](https://youtu.be/ciTD7CZu96s) - Published on 2021-06-04
-
-## GALLERY
-![Items Tubes](https://i.imgur.com/cKaVU4W.png)
